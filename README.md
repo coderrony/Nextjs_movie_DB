@@ -1,5 +1,5 @@
 
-#### ✔Live Link: 🎈 <a href="https://nextjs-shop-center-one.vercel.app/" target="_blank">link</a>
+#### ✔Live Link: 🎈 <a href="https://nextjs-movie-db-eight.vercel.app/en" target="_blank">link</a>
 
 
 #### এসাইনমেন্ট এ আপনাকে যা যা করতে হবেঃ
